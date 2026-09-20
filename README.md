@@ -4,6 +4,7 @@
 
   ## Invoice & Finance
   - [MyClaw Invoice Generator](https://myclaw-tools.vercel.app/tools/invoice) — Free AI invoice generator, no signup
+  - [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser invoice, quote, timesheet, expense log, change order, and milestone payment schedule (no signup)
   - [MyClaw Rate Calculator](https://myclaw-tools.vercel.app/tools/rate-calculator) — Know your freelance market rate
 
   ## Content Creation

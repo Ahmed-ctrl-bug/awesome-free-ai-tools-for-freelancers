@@ -23,3 +23,7 @@
 
   ---
   Built by [@Ahmed-ctrl-bug](https://github.com/Ahmed-ctrl-bug
+
+## Image Generation
+
+- [Raphael AI](https://raphael.app) — Free unlimited AI image generator with multi-model routing.
